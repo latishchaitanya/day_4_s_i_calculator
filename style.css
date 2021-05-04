@@ -1,0 +1,44 @@
+.container{
+    background-color: #eaedef;
+    margin-top: 11%;
+    width: 25%;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(238, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+  body{
+    align-content: center;
+    color: black;
+
+    background-image: url(https://thumbs.dreamstime.com/b/percent-seamless-business-pattern-promotion-finance-background-sale-offer-percent-seamless-pattern-percent-seamless-business-118148006.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#result{
+    font-size:30px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: #12445e;
+}
+  .form-area{
+    position : absolute ;
+    top: 100%;
+    right: 100%;
+    transform: translate(-50%,-50%);
+    width: 400px;
+    height: fit-content;
+    box-sizing: border-box;
+    background: rgba(0,0,0,0.5);
+    padding: 40px;
+  }
+  input{
+    width: 100%;
+    padding: 9px 10px;
+    box-sizing: border-box;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    border-width: 0.5px;
+    font-size: 18px;
+}
+  button{
+    text-align: left;
+}
